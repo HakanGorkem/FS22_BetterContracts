@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<110n>
+	<texts>
+		<!-- Tuşlar -->
+		<text name = "input_MENU_EXTRA_3" text = "Daha İyi Sözleşmeler: Ayrıntılar Açık/Kapalı"/>
+		<!-- Gui Düğmeleri -->
+		<text name="bc_hidden" text="Gizli: %d" />
+		<text name="bc_other" text="Diğer" />
+		<text name="bc_new_contracts" text="Yeni Sözleşmeler" />
+		<text name="bc_clear_contracts" text="Sözleşmeleri Temizle" />
+		<text name="bc_detailsOff" text="Ayrıntılar Kapalı" />
+		<text name="bc_detailsOn" text="Ayrıntılar Açık" />
+
+		<!-- Metinleri görüntüleme -->
+		<text name="bc_harvest" text="Harv. " />
+		<text name="bc_leased" text="/ Kiralandı " />
+		<text name="bc_enoughMissions" text="Çiftliğiniz zaten maksimum sözleşme sayısına sahip." />
+		<text name="bc_jobsCompleted" text="Tamamlanan işler: %d" />
+
+		<!-- Sabit mod -->
+		<text name="bc_penalty" text="Ceza" />
+		<text name="bc_warnTimeout" text="Lütfen sözleşme cezalarını önlemek için %d sözleşme(ler)inizi gece yarısından önce tamamlayın." />
+		<text name="bc_warnCancel" text=" Sözleşme cezası en az " />
+		<text name="bc_leaseNotEnough" text="Makineleri ödünç almadan önce, %s için %d daha fazla işi kendi ekipmanınızla tamamlamanız gerekir." />
+
+		<!-- İndirim modu -->
+		<text name="bc_maxJobs" text="%s için maksimum indirime ulaştınız." />
+		<text name="bc_discount" text=" (%d%% indirim)" />
+		<text name="bc_discValue" text="%s, gelecekteki alan satın alımları için size %d %% indirim sağlar." />
+		<text name="bc_owner" text="Sahip:" />
+
+		<!-- NPC ayrıntıları kutusu -->
+		<text name="SC_widhei" text="Maksimum genişlik/yükseklik:" />
+		<text name="SC_worktim" text="Tahmini süre:" />
+		<text name="SC_price" text="Fiyat:" />
+		<text name="SC_profpmin" text="Kâr/min:" />
+		<text name="SC_sort" text="Sırala" />
+
+		<text name="SC_field" text="Alan %d / %s" />
+		<text name="SC_fillType" text="Malların türü:" />
+		<text name="SC_worked" text="Çalışılan alan:" />
+		<text name="SC_delivered" text="Teslim edildi:" />
+		<text name="SC_deliver" text="Must deliver:" />
+		<text name="SC_keep" text="Can keep:" />
+		<text name="SC_profit" text="Hasattan elde edilen kâr:" />
+		<text name="SC_profitSupply" text="Kâr:" />
+		<text name="SC_usage" text="Usage:" />
+		<text name="SC_cost" text="Malzemenin maliyeti:" />
+		<text name="SC_togo" text="Gitmek için:" />
+		<text name="SC_timeleft" text="Kalan süre:" />
+
+		<!-- Sırala düğmesi yardım metni -->
+		<text name="SC_sortCat" text="görev türü" />
+		<text name="SC_sortProf" text="net kâr" />
+		<text name="SC_sortpMin" text="dakika başına kâr" />
+
+		<!-- Ayarlar Sayfası -->
+		<text name="bc_settingsPage_title" text="Sözleşme Ayarları" />
+
+		<text name="bc_baseSettings" text="Temel Ayarlar" />
+		<text name="bc_rewardMultiplier" text="Ödül" />
+		<text name="bc_rewardMultiplier_tooltip" text="Sunulan sözleşmeler için ödülleri ayarlayın." />
+		<text name="bc_leaseMultiplier" text="Kira Maliyeti" />
+		<text name="bc_leaseMultiplier_tooltip" text="Sözleşmeler için ekipman ödünç alma maliyetini ayarlayın." />
+		<text name="bc_maxActive" text="Eşzamanlı etkin sözleşmeler" />
+		<text name="bc_maxActive_tooltip" text="Maksimum eşzamanlı etkin sözleşme sayısı." />
+		<text name="bc_toDeliver" text="Hasat sözleşmelerinde teslimat" />
+		<text name="bc_toDeliver_tooltip" text="Bir hasat sözleşmesini tamamlamak için teslim etmeniz gereken tahmini toplam verimin yüzdesi." />
+		<text name="bc_refreshMP" text="İzin sözleşmeleri listesi" />
+		<text name="bc_refreshMP_tooltip" text="Bir MP oyununda sözleşmeleri kimler silebilir/yenileyebilir." />
+		<text name="bc_debug" text="Hata Ayıklama Modus" />
+		<text name="bc_debug_tooltip" text="Etkinse bilgi iletilerini günlüğe yazdırır. Hataları bulmanıza yardımcı olabilir. " />
+
+		<text name="bc_lazyNPC" text="Tembel Çiftçiler" />
+
+		<text name="bc_mainSwitch" text="Etkinleştirildi" />
+		<text name="bc_active" text="Etkinleştirildi" />
+		<text name="bc_lazyNPC_tooltip" text="Aktifse, NPC çiftçileri tarlalarındaki çalışmaları daha sık atlarlar. Böylece daha fazla sözleşme teklif edilebilir. " />
+		<text name="bc_lazyNPCHarvest_tooltip" text="Aktifse, NPC çiftçileri hiç hasat yapmazlar. Sizin için çok fazla iş ile sonuçlanabilir. " />
+		<text name="bc_lazyNPCSow_tooltip" text="Eğer aktifse, NPC çiftçileri ekim işini daha nadiren yaparlar ve bunun yerine sözleşme olarak sunarlar." />
+		<text name="bc_lazyNPCPlow" text="Pulluk ve Yetiştirme" />
+		<text name="bc_lazyNPCPlow_tooltip" text="Eğer aktifse, NPC çiftçileri daha az sıklıkla kendi başlarına sürer veya yetiştirirler." />
+		<text name="bc_lazyNPCFertilize_tooltip" text="Eğer aktifse, NPC çiftçisi gübreleme işini daha nadiren yapar ve bunun yerine sözleşme olarak sunar." />
+		<text name="bc_lazyNPCWeed_tooltip" text="Eğer aktifse, NPC çiftçileri tarlalarındaki yabani otlarla daha nadiren savaşırlar ve bunun yerine sprey ve ayıklama sözleşmeleri sunarlar." />
+
+		<text name="bc_hardMode" text="Daha yüksek zorluk" />
+		<text name="bc_hardMode_tooltip" text="Etkinse, tüm etkin sözleşmeler en geç ay sonuna kadar tamamlanmalıdır. Bir sözleşmeyi iptal etmek bir cezaya mal olacaktır. Sözleşmeli ekipmanın ödünç alınması yalnızca bazı işleri tamamladıktan sonra açılır. " />
+		<text name="bc_hardPenalty" text="Penaltı" />
+		<text name="bc_hardPenalty_tooltip" text="İptal edilen sözleşme için ceza tutarı (sözleşme ödülünün % 'si cinsinden)." />
+		<text name="bc_hardLease" text="Ödünç alma ekipmanının kilidini aç" />
+		<text name="bc_hardLease_tooltip" text="Bir NPC çiftçisinin size ekipmanlarını ödünç vermeden önceki başarılı iş sayısı." />
+		<text name="bc_hardExpire" text="Deadline" />
+		<text name="bc_hardExpire_tooltip" text="Hangi dönemin sonunda tüm etkin sözleşmelerin tamamlanması gerekir." />
+
+		<text name="bc_discountMode" text="Alan satın alma indirimi" />
+		<text name="bc_discountMode_tooltip" text="Aktifse, bir NPC çiftçisi tarım arazisi alımlarında indirim yapar. İndirim, bu çiftçi için tamamlanan işlerin sayısıyla birlikte artar. " />
+		<text name="bc_discPerJob" text="Tamamlanan sözleşme başına indirim" />
+		<text name="bc_discPerJob_tooltip" text="Bir NPC çiftçisi, tamamlanan iş başına indirimini bu tutarda artırır. Maksimum indirim %50'nin üzerine çıkamaz. " />
+		<text name="bc_discMaxJobs" text="İndirimden etkilenen işlerin sayısı" />
+		<text name="bc_discMaxJobs_tooltip" text="Maksimum indirimi azaltabilir, örneğin sözleşme başına indirim = %11, iş sayısı = 3 -> maksimum iskonto = %33. Dikkat: Mevcut tamamlanan iş sayısı, bir tarım arazisi satın alımında bu değerle azalacaktır. " />
+	</texts>
+</l10n>
